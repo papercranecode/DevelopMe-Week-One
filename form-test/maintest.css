@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+div {
+    display: block;
+}
+
+.field {
+    padding-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    display: block;
+    border: 0;
+    width: 100%;
+    border-radius: 4px;
+    background: #ebebeb;
+    padding: 10px 12px;
+}
+
+.field-full-height {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.field-full-height textarea {
+    flex-grow;
+}
+
+.txt-right {
+    text-align: right !important;
+}
+
+.form-action {
+    padding-top: 5px;
+}
