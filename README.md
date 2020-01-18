@@ -6,8 +6,8 @@ The brief was to create the webpage from scratch, from a PDF design supplied by 
 
 ## Features
 The webpage features:
-*Basic HTML5 with relevant tags
-*Basic CSS styling
+* Basic HTML5 with relevant tags
+* Basic CSS styling
 
 ## Screenshot
 ![Example screenshot](./images/Screenshot.png)
