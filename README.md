@@ -10,5 +10,5 @@ The webpage features:
 *Basic CSS styling
 
 ## Screenshot
-![Example screenshot](./images/screenshot.png)
+![Example screenshot](./images/Screenshot.png)
 
